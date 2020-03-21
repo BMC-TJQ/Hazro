@@ -3,4 +3,4 @@ var twLSN = [
 'https://hazrocookies.blogspot.com/',
 ];
 /* URL Pemilik Lisensi */
-var redirectURL = 'https://hazrocookies.blogspot.com/';
+var redirectURL = 'https://www.facebook.com/Muhadi.M.ilyas';
